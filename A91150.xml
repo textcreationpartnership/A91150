@@ -1,0 +1,563 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief iustification of the XI. accused members, from a scandalous libel, stiled A particular charge and impeachment, in the name of Sir Thomas Fairfax, and the army under him: newly printed and published to defame them. Wherein the apparent falshood and malice of some of the most materiall charges, is demonstrated to the world, for the present; till the rest be fully cleared in time by themselves, to the eternal infamy of the fals accusers, not any of them as yet daring to own and make good the generall or particular charge, in their own names under their hands, as by law they ought.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91150</idno>
+            <idno type="STC">Wing P3908</idno>
+            <idno type="STC">Thomason E398_3</idno>
+            <idno type="STC">ESTC R201681</idno>
+            <idno type="EEBO-CITATION">99862181</idno>
+            <idno type="PROQUEST">99862181</idno>
+            <idno type="VID">114332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114332)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief iustification of the XI. accused members, from a scandalous libel, stiled A particular charge and impeachment, in the name of Sir Thomas Fairfax, and the army under him: newly printed and published to defame them. Wherein the apparent falshood and malice of some of the most materiall charges, is demonstrated to the world, for the present; till the rest be fully cleared in time by themselves, to the eternal infamy of the fals accusers, not any of them as yet daring to own and make good the generall or particular charge, in their own names under their hands, as by law they ought.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne by Wing.</note>
+                  <note>Annotation on Thomason copy: "July 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council. --  Particular charge or impeachment, in the name of His Excellency Sir Thomas Fairfax, and the army under his command --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114332:1" rendition="simple:additions"/>
+            <p>A Brief
+IVSTIFICATION
+of the
+XI. Accuſed Members,
+from a ſcandalous <hi>Libel,</hi> ſtiled
+A Particular Charge and Impeachment,
+in the name of
+<hi>Sir Thomas Fairfax, and the Army under him:</hi>
+newly Printed and publiſhed to defame them.</p>
+            <p>Wherein the apparent <hi>Falſhood</hi> and <hi>Malice</hi>
+of ſome of the moſt materiall Charges, is demonſtrated
+to the world, for the preſent; till the reſt be fully cleared
+in time by <hi>themſelves,</hi> to the Eternal Infamy of the <hi>Falſ
+Accuſers,</hi> not any of them as yet daring to own and
+make good the <hi>Generall</hi> or <hi>particular Charge,</hi>
+in their own names under their hands,
+as by <hi>Law</hi> they ought.</p>
+            <bibl>2 TIM. 3. 1, 2, 3, 4.</bibl>
+            <q>This know alſo, that in the laſt days, perilous times ſhal come: For men
+ſhal be lovers of their own ſelves, covetous, boaſters, proud, Blaſphe<g ref="char:EOLhyphen"/>mers,
+diſobedient to Parents, unnatural, unholy, without natural af<g ref="char:EOLhyphen"/>fection,
+TR<g ref="char:V">Ʋ</g>CE-BREAKERS, FALSE-ACC<g ref="char:V">Ʋ</g>
+               <g ref="char:EOLhyphen"/>SERS,
+Incontinent, Fierce, TRAYTORS, Heady, High-minded;
+Having a form of godlineſs, but denying the power thereof:
+from ſuch turn away.</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114332:2"/>
+            <pb n="3" facs="tcp:114332:2"/>
+            <head>A brief Justification of ſome of the XI
+accuſed Members, from a ſcandalous
+Lible ſtiled: A particular Charge
+and Impeachment in the name of Sir
+Thomas Fairfax, and the Army
+under him; newly printed and publiſh<g ref="char:EOLunhyphen"/>ed
+to defame them.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He accuſed Members former faithfulneſs, activity
+and ſufferings for the Liberty and Rights of the <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+Parliament and Kingdom, might in the opinion of
+all knowing men, acquit them from their <hi>general</hi>
+and <hi>particular Charge,</hi> againſt which they have
+ſeverally proteſted their known <hi>Innocency</hi> by word of
+mouth in the Houſe, till their more particular <hi>legal Anſwer</hi>
+(to ſuch an <hi>illegal Charge,</hi> if reſolved anſwerable in point of
+Law or Juſtice, before any ſufficient <hi>particular Accuſers</hi> ſub<g ref="char:EOLhyphen"/>ſcribe
+and aver it, able to give the <hi>Members</hi> and <hi>Houſe</hi> (therein
+deepeſt charged) ſufficient reparation, if not made good) ſhal be
+returned to it in writing by the advice of Councel. But leſt their In<g ref="char:EOLhyphen"/>nocency
+ſhould in the mean time over-much ſuffer in the opinion
+of the deluded <hi>Vulgar;</hi> it will be a point of Juſtice both to theſe
+calumniated <hi>Members</hi> &amp; the Houſe, to <hi>vindicate</hi> them from the
+malicious falſe accuſations, moſt unconſcionably and injuriouſly
+(againſt all truth and equity) raked up againſt them, to blaſt their
+<pb n="4" facs="tcp:114332:3"/>
+reputations; by a libellous unlicenſed Charge in print, without
+the Houſes Order, of which take this ſummary Account.</p>
+            <p>The principal Charge among all the Particulars, is that concer<g ref="char:EOLhyphen"/>ning
+Mr <hi>Denzel Holles,</hi> placed in the front in the two firſt
+Charges; of which he was in this very moneth of <hi>July</hi> was
+two years, after full examination and debate in the Houſe <hi>TO<g ref="char:EOLhyphen"/>TALLY</hi>
+and <hi>FINALLY</hi> acquitted; as appears by
+theſe enſuing <hi>Votes;</hi> to which ſome of his very Accuſers aſſen<g ref="char:EOLhyphen"/>ted,
+and yet are ſo malicious and unjuſt, as to aſperſe him with
+the reviving of the ſelf-ſame Accuſation now, for want of
+other matter; the very extremity of malice and perverſe<g ref="char:EOLhyphen"/>neſs.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proceedings">
+                        <div type="part">
+                           <head>
+                              <date>19 July 1645.</date>
+                           </head>
+                           <p>ACcording to former Order, the Houſe proceeded to the
+Judgment upon the Report made by Mr <hi>Samuel Brown</hi>
+concerning M. <hi>Holles</hi> and M. <hi>Whitlock,</hi> and debated that part
+of it, which concerned my Lord <hi>Savils</hi> ſaying; That he was
+advertiſed, that M. <hi>Holles</hi> had held intelligence with the Lord
+<hi>Digby.</hi>
+                           </p>
+                           <p>
+                              <hi>Upon conſideration whereof it is reſolved,</hi> &amp;c. That it
+doth not appear upon proof, that Mr <hi>Holles</hi> hath held any corre<g ref="char:EOLhyphen"/>spondency
+with the Lord <hi>Digby.</hi>
+                           </p>
+                           <p>The Houſe fell next into debate concerning the buſineſs of
+M. <hi>Holles</hi> his receiving a Note from the Lord <hi>Savile,</hi> written
+in white ink; and ſaid by the meſſenger that brought it, to be
+ſent from the Earl of <hi>Lindſey,</hi> but not appearing ſo by any
+proof.</p>
+                           <p>
+                              <hi>Reſolved,</hi> &amp;c. That the receiving this Note by Mr <hi>Holles</hi>
+in the manner as he did, is no holding Intelligence with the
+Enemy.</p>
+                        </div>
+                        <div type="part">
+                           <head>
+                              <date>21. Julii 1645.</date>
+                           </head>
+                           <p>THe Houſe proceeded to debate that part of the Report,
+which concerned the paſſages of a diſcourſe held at a
+<pb n="5" facs="tcp:114332:3"/>
+meeting at the Earl of <hi>Lindſeys</hi> Chamber at <hi>Oxford,</hi> where
+<hi>M. Holles</hi> and <hi>M. Whitlock</hi> were preſent, when they were
+imployed as two of the Commiſſioners to preſent the Propoſi<g ref="char:EOLhyphen"/>tions
+of Peace from both Kingdoms, and concerning a Paper
+delivered at the ſame time to the Earl of <hi>Lindſey.</hi>
+                           </p>
+                           <p>
+                              <hi>Reſolved, &amp;c.</hi> That for as much as it doth not appear to this
+Houſe that M. <hi>Holles</hi> and M. <hi>Whitlock</hi> had any ill intention
+in their proceedings at <hi>Oxford;</hi> Therfore this Houſe is of opi<g ref="char:EOLhyphen"/>nion,
+That the matter of this Report, as concerning M. <hi>Holles</hi>
+and M. <hi>Whitlock,</hi> be TOTALLY and FINALLY
+LAYD ASIDE.</p>
+                           <p>
+                              <hi>Reſolved, &amp;c.</hi> That notwithſtanding this Vote, the Houſe
+doth declare, that M. <hi>Holles</hi> and M. <hi>Whitlock</hi> may proſecute
+the Lord <hi>Savile</hi> for reparation, if they ſee cauſe.</p>
+                        </div>
+                        <closer>
+                           <signed>Henry Elſynge,
+Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Since then the Houſe hath ſo long ſince <hi>totally</hi> and <hi>finally</hi> ac<g ref="char:EOLhyphen"/>quitted
+him of theſe two Charges, it is the very extremity of
+inſolency, malice, and calumny to revive them now.</p>
+            <p>The 3. Charge will be proved as falſe and frivolous as the for<g ref="char:EOLhyphen"/>mer:
+that clauſe in it, <hi>That</hi> (theſe Members) <hi>having a great
+power in the Treaſure of the Kingdom,</hi> have thereby <hi>maintai<g ref="char:EOLhyphen"/>ned
+and encouraged by penſions and otherwiſe the Queens par<g ref="char:EOLhyphen"/>ty
+in France,</hi> &amp;c. being an apparent falſhood (the Armies
+party and friends having the greateſt power over the Kingdoms
+Treaſure and the accuſed <hi>Members</hi> none at all) diſcovering all
+the reſt depending on it to be a figment: and how much the
+<hi>Army hath out-done them for the King,</hi> is now apparent, by
+their own laſt Letters, &amp; wil be dayly more and more; till both
+Kingdom and Parliament repent of it, when too late.</p>
+            <p>The 4. is an evident calumny, reflecting wholy upon the <hi>Ar<g ref="char:EOLhyphen"/>my,</hi>
+who ſend out their Agitators into all Countries to excite
+them againſt the Parliament, and dayly entertain and liſt new
+recruits of <hi>Anabaptiſts, Sectaries,</hi> and draw all other Parli<g ref="char:EOLhyphen"/>ament
+forces what they may to joyne in Rebellion with them:
+<pb n="6" facs="tcp:114332:4"/>
+and openly force and offer violence to the Houſe by their mi<g ref="char:EOLhyphen"/>natory
+Letters, Declarations, and moſt unreaſonable demands.</p>
+            <p>The 5. head will be juſtified by orders of the Houſe and the
+inſolency of the Petitioners, who aſſaulted and menaced the
+<hi>Members</hi> and Committee in a moſt daring mutinous way,
+and deſerved a commitment by Law, and more.</p>
+            <p>The 6, 7, 8, and 9. <hi>Charges</hi> are already juſtified and cleared
+by the Houſes Votes, being Acts of the whole Houſe; and that
+the informatious againſt thoſe Officers of the <hi>Army</hi> were true,
+will be made appear to their ſhame in due time; and their Sedi<g ref="char:EOLhyphen"/>tion
+and Rebellion ſince in an higher degree, proclaims their ac<g ref="char:EOLhyphen"/>cuſations
+then, to be true to all the world.</p>
+            <p>To the 10. it will be proved, that the <hi>Army</hi> and their Con<g ref="char:EOLhyphen"/>federates
+have been the greateſt and only obſtructers of <hi>Irelands</hi>
+relief, and the accuſed <hi>Members</hi> the greateſt advancers of it;
+and that the Houſe hath been moſt abuſed by the Members and
+Councel of War now in the <hi>Army,</hi> (proteſting their obedience)
+of which we have no further uſe at all, unleſs they appear more
+dutiful and loyal to the Parliament and Kingdom then now.</p>
+            <p>The 11. will prove a calumny, and done upon juſt reaſons, by
+ſufficient warrant.</p>
+            <p>The 12, 13, and 14. will prove meer forgeries and ſurmiſes:
+For the ſummes pretended that Sir <hi>John Clotworthy</hi> hath de<g ref="char:EOLhyphen"/>frauded
+the State of, ſome are falſe, the reſt expreſſed in his
+Account; That the Lord <hi>Liſle</hi> hath ſpent more money the laſt
+year then would have reduced <hi>Ireland;</hi> and hath been a greater
+obſtructer of <hi>Irelands</hi> preſent relief, then any of the Accuſed
+Members (to gain a new Commiſſion) is known to many; and that
+one of his freinds in the Houſe hath really held correſpondency
+with the Lord <hi>ORMOND,</hi> wil appear by Letters under his
+own hand.</p>
+            <p>The 15. &amp; 16. wil be found meer Calumnies upon examination:
+and the 17. likewiſe; in the beginning whereof <hi>Sir William
+Lewis</hi> is thus moſt falſly and maliciouſly Charged. <hi>That he
+being heretofore Govenour of Portſmouth (a Gariſon for the
+Parliament) in which time he hath received much of the publick
+Treaſure,</hi> For <hi>WHICH HE HATH NOT YET GIVEN
+AN ACCO<g ref="char:V">Ʋ</g>NT</hi> &amp;c. Whereas the contrary appears by an
+<pb n="7" facs="tcp:114332:4"/>
+unanſwerable <hi>Certificate</hi> of the <hi>Committee for taking the Ac<g ref="char:EOLhyphen"/>counts
+of the whole Kingdom,</hi> preſented by them to the <hi>Houſe
+of Commons,</hi> 3. Aprilis, 1645. with this approbation, <hi>That
+they found it a very fair and frugal Account:</hi> upon which Certi<g ref="char:EOLhyphen"/>ficate
+(newly printed) the Houſe of Commons the ſelfeſame
+day, paſſed this Vote and Order touching his ſaid Account.</p>
+            <p>Reſolved, that this Houſe doth concurr with the Committee
+of Accounts in allowing the demands of <hi>Sir William Lewis</hi> upon
+his Accounts, and in approving of his Accounts<g ref="char:punc">▪</g> 
+               <hi>And there<g ref="char:EOLhyphen"/>upon;</hi>
+Ordered: that the Committee of the Revenue do with
+their ſooneſt and beſt conveniency, pay unto <hi>Sir William Lewis</hi>
+the ſum of 415. <hi>l.</hi> 16. <hi>s,</hi> 8. <hi>d.</hi> part of what remains due unto
+him upon his Accounts, as appeares by a Certificate from the
+Committee of Accounts of the date of March, 27. 1645. pre<g ref="char:EOLhyphen"/>ſented
+to the Houſe April, 3, and allowed by this Houſe.</p>
+            <p>By this moſt notorious falſhood (diſproved by the
+very records of Parliament, of which his cheif Accuſers could
+not be ignorant) touching his not Accounting, the
+world may judg the verity of the reſidue of his Charge,
+<hi>about his intended delivery up of</hi> that <hi>Garriſon to the King:</hi>
+of which, upon ful examination, he was clearly acquitted, by Or<g ref="char:EOLhyphen"/>der
+of the Committee of Lords and Commons for ſafety, (a<g ref="char:EOLhyphen"/>mong
+which was the <hi>Lord Say,</hi> and ſundry other of the Ar<g ref="char:EOLhyphen"/>mies
+beſt friends) as wil be manifeſted by the Original under their
+hands. So as this Charge can be nothing elſe but a moſt malici<g ref="char:EOLhyphen"/>ous
+information, voyd of truth, for which the whole Army ought
+to give Sir <hi>William</hi> reparation, and crave him publick pardon.</p>
+            <p>The 18. particular is a moſt impudent ſlander; the hundred
+pounds payd to <hi>M<hi rend="sup">r</hi>. Glyn</hi> by the <hi>Drovers</hi> being <hi>no reward for</hi>
+Mr. Glyns <hi>ſervice in procuring them</hi> 3000. l. <hi>in ſatisfaction of
+their loſſes,</hi> as is maliciouſly ſuggeſted; but a meer repayment
+of an hundred pounds which he freely lent them (beſides other
+moneys which he gave them out of his purſe) in their neceſſities,
+when no man elſe would releive them: as wil be proved by the
+Drovers themſelves and other ſubſtantial witneſſes. So as chari<g ref="char:EOLhyphen"/>it
+ſelf is now become a crime with theſe uncharitable Accuſers.</p>
+            <p>The 19. is a notorious untruth, and notable ſlander to both
+<hi>Houſes Militia,</hi> the <hi>Common Councel of London,</hi> and <hi>Com<g ref="char:EOLhyphen"/>miſſioners
+<pb n="8" facs="tcp:114332:5"/>
+of the great Seal;</hi> who wil al averr it to be and reſent
+it as an apparant untruth, and ought to receive reparation from
+the Army for the ſcandal.</p>
+            <p>The 20. is a palpable falſhood; diſclaimed by the <hi>Honorable
+Lord</hi> therein mentioned under his hand: As for Sir <hi>William
+Lewis,</hi> he was not preſent at that time, and if he were; how he
+could be charged to <hi>agree to any diſcourſe by his meer preſence
+and geſture,</hi> without ſpeaking one ſyllable, the Accuſers can
+never demonſtrate without a <hi>ſpecial Revelation:</hi> no evidence
+in Law.</p>
+            <p>The 21. concerning <hi>Mr Nichols,</hi> is very abſurd, the <hi>Vote
+of a Committee without the Houſes Vote to confirm it, diſ<g ref="char:EOLhyphen"/>members
+and diſables no man from ſitting in the Houſe;</hi> where
+ſome of the Armies freinds now ſit after Votes of Committees
+againſt their Elections: And if the Vote paſſed above 4. years
+ſince, it was a fault in the Army and their freinds in the Houſe
+(who have made much uſe of his ſervice) never to complain of it
+till now. That by his threats, power, ſollicitations, and indirect
+practiſes in the Weſt-Country, he hath brought in above 28.
+Members more out of <hi>Cornwal,</hi> of purpoſe to carry on the de<g ref="char:EOLhyphen"/>ſigns
+in the Charge; is an Article fitter to be Charged on <hi>Lieu<g ref="char:EOLhyphen"/>tenant
+General Cromwel, Mr Peter,</hi> and other Officers, and
+Chaplains in the Army then on him, who have brought in many
+Officers and Members by ſuch means, and endeavoured to bring
+in more, as wil be proved; &amp; in thoſe Lords who illegally brought
+in <hi>M. Lawrence, Major Saloway,</hi> with divers others in the
+Northern parts where they never were: to promote the Armies
+and others deſigns of which the world ſhal have the parti<g ref="char:EOLhyphen"/>culars
+in due time: who ought rather to be ſuſpended the Houſe
+then any of the impeached Members, or pretended Malignants,
+til their undue elections be determined, whereas all in <hi>Cornwal</hi> if
+not in <hi>Wales</hi> are without exceptions. As for his holding of a place
+in the Tower, notwithſtanding the ſelf-denying Ordinance, if
+true; it is no more then ſome Members now in the Army and
+chief Promoters of this Charge, or<note n="*" place="margin">Or M. <hi>Spea<g ref="char:EOLhyphen"/>kers</hi> ſon, Mr. <hi>Love</hi> &amp; Mr. <hi>Smith,</hi> all ſix Clarks in the ſame Court yet not excep<g ref="char:EOLhyphen"/>ted againſt.</note> 
+               <hi>M. Speaker,</hi> and young <hi>Sir
+Henry Vane,</hi> are guilty of, who hold far more gainful places,
+then his, which amounts not to half the profit of the meaneſt
+Captains place in the <hi>Army,</hi> who ill requite him for all his
+<pb n="9" facs="tcp:114332:5"/>
+journies to and ſervices for them; for which he neuer received
+any recompence from them or the ſtate.</p>
+            <p>The 22. wil prove a meer Calumny when examined, and is in
+part a charge againſt the Houſe it ſelfe.</p>
+            <p>The 23. alſo is a meer ſcurrilous defamatory Charge in ma<g ref="char:EOLhyphen"/>ny
+particulars; eſpecially in that of <hi>Mr. Longs</hi> cowardlineſs,
+that <hi>he left the feild at Edghil and never Charged;</hi> when as
+divers <hi>Members</hi> of the Houſe and other ſouldiers there preſent
+know, and wil atteſt upon their Oathes, that he Charged Gal<g ref="char:EOLhyphen"/>lantly,
+had his horſe ſlain under him, and continued in the feild till
+the laſt; when valiant <hi>Cromwel</hi> (then a new-made Captain
+who hath ſince gained the honor of many ſervices, performed
+by other mens valor) ſtood all the while (like a young ſouldier)
+under an hedg, and never came to Charge, when all the other
+Troops of the Regiment were ingaged and did gallant ſervice;
+though many Gallant Officers (of the Armies freinds) fled the
+feild without ſtriking ſtroke. His plundring of <hi>Eſſex</hi> is a Calum<g ref="char:EOLhyphen"/>ny,
+he doing nothing then but by an Ordinance of Parliament
+joyntly with other Gentlemen of the Country: and for the mo<g ref="char:EOLhyphen"/>nies
+then received, he printed, and after gave in his Account therof
+above 2 years ſince upon oath, when divers great Officers in the
+Army who are great Accountants have hitherto given in no Ac<g ref="char:EOLhyphen"/>counts,
+and profeſs ingeniouſly they cannot do it, and there<g ref="char:EOLhyphen"/>upon
+cavil againſt the Ordinances and Committee of Accounts,
+&amp; ſlander them in their Declarations, though ſome of them were
+very active &amp; contributed largly in raiſing of this New-molded-Army,
+who ſo ill requite their kindneſs, to avoyd accounting,
+which they falſly Charge as a crime on others who are guiltleſs of it</p>
+            <p>The 24. is a Charge and inſolent ſcandal caſt upon both Hou<g ref="char:EOLhyphen"/>ſes,
+not on <hi>M. Long,</hi> who are better able to judg of his fitneſs
+to be a <hi>Regiſter</hi> then an <hi>Army</hi> of illiterate Clerks or any <hi>Mecan<g ref="char:EOLhyphen"/>nicks,</hi>
+who are neither able to draw a Charge, nor Chancery
+Order in due form of Law. Beſides, the Place hath conſtantly
+bin executed by able Deputies, and is ſo now; and ſo no preiudice
+to the Commonwealth; no diſhonor to the Parliament to confer it
+upon him, who hath ſuſtained more real loſſes for his good ſervice
+in Parliament &amp; 4 years impriſonment, both before and ſince theſe
+wars, then moſt of the Colonels now in the Army were worth
+before the wars.</p>
+            <p>
+               <pb n="10" facs="tcp:114332:6"/>
+The 25. <hi>particular</hi> is falſe and ſcandalous as it is charged:
+If <hi>M. Long</hi> hath perſwaded any <hi>Members</hi> to ſtay in the Houſe,
+or endeavored to call others into the Houſe when any great
+affairs were in agitation, he did but his duty in it, ſince all in
+ſuch cauſes are bound to attend, and if through ignorance (as
+many Novices do) or ſloathfulneſs they neglect their truſt and
+duty herein, they are rather to be ſuſpended and turned out of
+the Houſe for this offence alone, then any of the accuſed, <hi>Mem<g ref="char:EOLhyphen"/>bers</hi>
+upon this whole Impeachment; however the Armies
+friends (if this <hi>Charge</hi> be a crime) are more guilty of it then <hi>M.
+Long,</hi> who will be ſure upon all debates in the Houſe and at
+Committees to keep their party together, and ſend up and down
+for recruits, if they ſee themſelves likely to be over-voted.
+As for the Title of <hi>Parliament-driver,</hi> which they ſcorn<g ref="char:EOLhyphen"/>fully
+caſt upon him, the <hi>Accuſers</hi> have now monopolized it in
+an higher degree to themſelves, by driving not only theſe XI,
+impeached <hi>Members</hi> but many others (not into, as he, but)
+clear out of the Houſe with threats, menaces, Letters, Remon<g ref="char:EOLhyphen"/>ſtrances
+and marching up towards <hi>London;</hi> whereby they are
+really guilty of what they falſly charge on him and more; <hi>even
+of taking away</hi>
+               <note n="*" place="margin">See their Anſwear to the Commiſ<g ref="char:EOLunhyphen"/>ſioners P. 14<g ref="char:punc">▪</g> 15. 19. new<g ref="char:EOLhyphen"/>ly Printed.</note> 
+               <hi>the Freedom of the Members from them,</hi> and
+ſuſpending and driving <hi>Members</hi> quite from the Houſe; <hi>where<g ref="char:EOLhyphen"/>by
+the manner of the Parliaments proceedings are much ſcanda<g ref="char:EOLhyphen"/>lized,
+and many times evil and dangerous deſigns driven on</hi>
+(and never ſo many as now) <hi>in a faction, by Votes; to the great
+prejudice of the Common-wealth:</hi> if not the annulling and va<g ref="char:EOLhyphen"/>cating
+all preſent proceedings in Parliament, as made under the
+<hi>Tyranny, Power, and Inſurrection</hi> of the <hi>Army,</hi> who are grown
+to that inſolency, as ſcarce to own their <hi>Maſters,</hi> or vouchſafe
+to treat with them, till their <hi>Antiparliamentary</hi> and unreaſo<g ref="char:EOLhyphen"/>nable
+demands be granted.</p>
+            <p>The <hi>Army</hi> (or rather a ſeditious factious party in it who uſurp
+that Title) conclude: <hi>That in convenient time, they ſhal and
+will be ready to make good by proof upon Oath,</hi> all the matters
+<hi>and things contained in this particular Charge:</hi> Which if they
+do, they muſt raiſe a new Regiment of the <hi>Knight of the Poſt</hi>
+that ever breathed, and win the whetſtone from their <hi>Attorney</hi>
+and <hi>Agitator General</hi> Lieutenant Colonel <hi>Lilburn,</hi> the grand
+<pb n="11" facs="tcp:114332:6"/>
+               <hi>Incendiary</hi> and under fomenter of theſe mutinous, tyrannical pro<g ref="char:EOLhyphen"/>ceedings
+againſt the <hi>Members.</hi> And their prayer in the cloſe;
+<hi>Therefore the ſaid Army do ſtil reſerue further liberty to adde
+other Articles againſt the ſaid Members, or any of them, at, or
+before their Tryals, as occaſion ſhal ſerve;</hi> after ſo long a time
+and pretended readineſs to put in their particulars; is to make
+the Parliament (as ſome of them ſtile it) another <hi>High Commiſ<g ref="char:EOLhyphen"/>ſion</hi>
+or <hi>Spaniſh Inquiſition;</hi> to vex, charge, and traduce theſe
+<hi>Members in infinitum,</hi> by Additionals upon Additionals, con<g ref="char:EOLhyphen"/>trary
+to all Law and Juſtice, and to make their accuſations end<g ref="char:EOLhyphen"/>leſs.</p>
+            <p>Theſe Particulars are ſaid to be ſigned, <hi>By the appointment of
+his Excellency Sir Teomas Fairfax, and his Councel of Warr;</hi>
+John Ruſhworth, <hi>Secretary:</hi> though they were neither read
+nor ſigned at or in the Councel: who for their ſcandalous
+beating out all <hi>M. Auſtins</hi> Cuſhings feathers and garbidg, by
+throwing them at one anothers heads, and beating them about
+one anothers eares, at <hi>Wickham,</hi> and beſpattering one another
+with wine and ſpittle, on Thurſday night was ſennight (in that
+<hi>Murrin-dance</hi> or <hi>Boys-play,</hi> wherein <hi>Mr. Peters</hi> acted the
+<hi>Buffone,</hi> the Uſual Paſtime of theſe Grandees) inſtead of
+praying upon them, deſerve to be ſeverely cenſured and caſhiered
+the <hi>Army</hi> as ſcandalous perſons, by the grand <hi>Councel of Agi<g ref="char:EOLhyphen"/>tators;</hi>
+the only free Parliament and preſent Councel of the
+Kingdom, who give Laws to all ſupream powers at their plea<g ref="char:EOLhyphen"/>ſure,
+&amp; have newly ſeiſed <hi>Major General Pointzes</hi> in York with
+a troop and carried him to the Army priſoner, and make no
+conſcience either what they charge ſay or print againſt
+the Houſes and their eminenteſt <hi>Members,</hi> who have the cou<g ref="char:EOLhyphen"/>rage
+or conſcience to oppoſe them in their unreaſonable demands
+and treaſonable proceedings, of far more capital conſequence
+then any charged againſt the impeached <hi>Members</hi> in this parti<g ref="char:EOLhyphen"/>cular
+Impeachment, admit it to be as true, as it is ful of falſhood.</p>
+            <div type="conclusion">
+               <head>The ſumm of the Charge.</head>
+               <p>THis Charge, as printed and publiſhed is in law a moſt ſcan<g ref="char:EOLhyphen"/>dalous
+ſeditious <hi>Libel,</hi> it impeacheth both Houſes joynt<g ref="char:EOLhyphen"/>ly
+in the matters of the <hi>Declaration</hi> againſt the Petition; the
+<pb n="12" facs="tcp:114332:7"/>
+grant of <hi>M. Longs</hi> office, and <hi>Militia</hi> of <hi>London:</hi> The whole
+Houſe <hi>of Commons,</hi> the <hi>Committee of Darby</hi> Houſe, and other
+<hi>Committees,</hi> in moſt of the Articles; the Commiſſioners of
+both Houſes ſent to the Army; the City and Common-Coun<g ref="char:EOLhyphen"/>cel
+of <hi>London</hi> in that of the <hi>Militia,</hi> and the Commiſſioners of
+the great <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eal in two Articles concerning Iuſtices of Peace, made
+by them alone. Neither of which are parties to it; and ſo
+ought in juſtice to be caſt out as impertinent and ſcandalous to
+all theſe who are no parties to, and yet traduced by it. It
+Chargeth the Members in many Articles, with things of
+which t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Houſe by their Votes hath long ſince totally and final<g ref="char:EOLhyphen"/>ly
+acquitted them: And for the reſt of the Charge, there is nei<g ref="char:EOLhyphen"/>ther
+one witneſs nor proof produced to make it good. By the
+Law of God<g ref="char:punc">▪</g> No accuſation ought to bee received againſt (any
+one)<note n="*" place="margin">1 Tim. 5 19.</note> 
+                  <hi>Elder</hi> but under two or three witneſſes; and by the Law
+of the land no Inditement can be received or found by the Gran-Iury
+without the Oath of one or more witneſſes to make it
+good, againſt the vileſt Theefe or archeſt Fellon: Much leſſe then
+ought this <hi>Charge</hi> to be <hi>received</hi> againſt ſo many eminent
+Members of Honor, merit and untainted Reputation (who ſerve
+in their Countries rights, nor their own) before ſome apparant
+proofs produced to the Houſe to make good the Charges in it:
+Elſe every Felon and arch Rogue, ſhal be in better condition
+then the beſt-deſerving Member. In fine, there is no legal pro<g ref="char:EOLhyphen"/>ſecutor
+to own the Charge, and the proſecution of it by an Ar<g ref="char:EOLhyphen"/>my
+is againſt all preſident, and an expreſs act of Parliament. 31.
+<hi>H.</hi> 6. <hi>c.</hi> 1. And for the Houſe to receive it againſt <hi>Law, Juſtice,
+Honor, Conſcience,</hi> only out of fear to diſpleaſe the <hi>Army,</hi> is
+to fear man rather then God, which hath already brought them
+into many ſnares, againſt their ſolemn Covenants, Oathes, in<g ref="char:EOLhyphen"/>gagements,
+and to confeſs they are now no free Parliament,
+and ſo all their Votes and proceedings voyd in Law; and then
+they ſit to no purpoſe at all, but to comply with the Army in
+all their unreaſonable demands, and dangerous deſigns, which
+God will blaſt; and themſelves when free-men, wil and muſt re<g ref="char:EOLhyphen"/>peal
+with ſhame, and deteſtation.</p>
+               <epigraph>
+                  <bibl>Job. 15. 34, 35.</bibl>
+                  <q>The Congregation of Hypocrites ſhall be de<g ref="char:EOLhyphen"/>ſolate;
+For they conceive miſchief and bring forth vanity, and
+their belly hath prepared deceit.</q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
